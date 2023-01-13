@@ -1,6 +1,5 @@
 
-Você  pode visualizar copiando e colando em seu navegador  - > projeto-helpclean.netlify.app
-
+Você  pode visualizar - > https://projeto-helpclean.netlify.app
 
 
 esse foi um projeto apos conhecer a framework bootstrap e assistir algumas aulas 
