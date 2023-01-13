@@ -1,5 +1,5 @@
 //* PROJETO-HELPCLEAN
-Você  pode visualizar clickando aqui - > www.projeto-helpclean.netlify.app
+Você  pode visualizar copiando e colando em seu navegador  - > projeto-helpclean.netlify.app
 
 
 
